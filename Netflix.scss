@@ -1,0 +1,95 @@
+body {
+    background-color: black;
+}
+
+.custom-nav {
+
+    border-radius: 10px;
+    background-image: url('1 backgroud.jpg'); 
+    max-height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    box-shadow: 0 0 10px 1px rgba(192, 192, 192, 0.5);
+}
+
+.logo {
+    width: 100px;
+}
+
+.net {
+
+    border-radius: 3px;
+}
+.form {
+    background-color: rgb(93, 93, 93);
+    background: transparent; 
+    color: aliceblue;
+    border-radius: 3px;
+}
+
+#cha {
+    background: transparent;
+    height: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+#but {
+    border-radius: 5px;
+    height: 35px;
+    border-color: 2px solid red; 
+}
+
+.div1 {
+    display: block;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 20px;
+    padding-top: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 0 0 10px 1px rgba(192, 192, 192, 0.5);
+}
+
+.newsletter1 {
+    background: transparent;
+}
+
+.gif-container1 {
+    border-radius: 20px;
+    overflow: hidden;
+    
+    img {
+        width: 100%; 
+        height: auto; 
+    }
+}
+
+.gif-container {
+    border-radius: 10px;
+    overflow: hidden; 
+    
+    img {
+        width: 100%; 
+        height: auto; 
+    }
+}
+
+.accordion-button {
+    color: rgb(224, 224, 224);
+    background-color: rgb(75, 75, 75);
+}
+
+.accordion-body {
+    color: rgb(24, 24, 24);
+}
+
+.form1 {
+    background-color: rgb(50, 50, 50);
+    background: transparent;
+    color: rgb(229, 229, 229);
+    border-radius: 3px;
+    width: 100px;
+    height: 25px;
+}
